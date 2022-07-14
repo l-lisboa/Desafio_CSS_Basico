@@ -1,1 +1,1 @@
-Desafio CSS Básico do curso - Programador BR - Desenvolvedor WEB Full Stack 
+Desafio CSS Básico - Curso  Programador BR - Desenvolvedor WEB Full Stack 
